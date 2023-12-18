@@ -31,7 +31,7 @@ function deleteFromEmployeeByKey () {
 
     }
 
-    const {race, ...employee_3} = employee_2;
+    const {age, ...employee_3} = employee_2;
     return employee_3;
 }
 
